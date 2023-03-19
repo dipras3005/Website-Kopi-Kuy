@@ -4,7 +4,9 @@ Website Kopi Kuy merupakan sebuah startup kopi retail yang ingin menyajikan high
 
 ![image](https://user-images.githubusercontent.com/60558674/226154795-fcb9ce5c-3004-4dba-ad13-980ec98cd406.png)
 
-Berikut sekilas tampilan halaman website Kopi Kuy
+
+
+# Berikut sekilas tampilan halaman website Kopi Kuy
 ![Gambar WhatsApp 2023-03-19 pukul 11 53 23](https://user-images.githubusercontent.com/60558674/226154471-42c9674f-9e49-468c-b107-67e068718b53.jpg)
 
 ![Gambar WhatsApp 2023-03-19 pukul 11 53 54](https://user-images.githubusercontent.com/60558674/226154472-3a2e3e12-ef77-47d3-9e0f-39f7811f1fc9.jpg)
